@@ -9,7 +9,7 @@ export class HeaderComponent {
   title: String = 'TASK MANAGER';
 
   toggleAddTask(){
-    console.log("Toggle task");
+    console.log('Toggle');
   }
 
 }
